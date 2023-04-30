@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FluxControl",
+            "request": "launch",
+            "mainClass": "FluxControl",
+            "projectName": "java-dio_fef3f5fa"
+        },
+        {
+            "type": "java",
             "name": "LogicalOperators",
             "request": "launch",
             "mainClass": "LogicalOperators",
