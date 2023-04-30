@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LogicalOperators",
+            "request": "launch",
+            "mainClass": "LogicalOperators",
+            "projectName": "java-dio_fef3f5fa"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
