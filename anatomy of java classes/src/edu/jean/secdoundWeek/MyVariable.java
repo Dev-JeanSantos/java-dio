@@ -1,5 +1,5 @@
 package edu.jean.secdoundWeek;
-public class MinhaVariavel {
+public class MyVariable {
     public static void main(String[] args) {
 
         //Declarações de variaveis

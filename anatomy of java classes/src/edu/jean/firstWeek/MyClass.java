@@ -1,5 +1,5 @@
 package edu.jean.firstWeek;
-public class MinhaClasse {
+public class MyClass {
     public static void main(String[] args) {
         System.out.print( "Ola Mundo!");
     }

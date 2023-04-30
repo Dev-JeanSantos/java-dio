@@ -1,5 +1,5 @@
 package edu.jean.firstWeek;
-public class BoletimEstudantil {
+public class StudentReportCard {
     public static void main(String[] args) {
         int mediaFinal = 7;
         if (mediaFinal < 6)
