@@ -1,3 +1,4 @@
+package edu.jean.secdoundWeek;
 public class MinhaVariavel {
     public static void main(String[] args) {
 
