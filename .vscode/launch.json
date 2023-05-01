@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenOrOdd",
+            "request": "launch",
+            "mainClass": "EvenOrOdd",
+            "projectName": "java-dio_7551efdf"
+        },
+        {
+            "type": "java",
+            "name": "BiggerAndMedium",
+            "request": "launch",
+            "mainClass": "BiggerAndMedium",
+            "projectName": "java-dio_7551efdf"
+        },
+        {
+            "type": "java",
+            "name": "Nota",
+            "request": "launch",
+            "mainClass": "Nota",
+            "projectName": "java-dio_7551efdf"
+        },
+        {
+            "type": "java",
+            "name": "NameAge",
+            "request": "launch",
+            "mainClass": "NameAge",
+            "projectName": "java-dio_7551efdf"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "edu.jean.firstWeek.MyClass",
+            "projectName": "java-dio_7551efdf"
+        },
+        {
+            "type": "java",
             "name": "FluxControl",
             "request": "launch",
             "mainClass": "FluxControl",
