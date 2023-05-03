@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PopulationActionUser",
+            "request": "launch",
+            "mainClass": "PopulationActionUser",
+            "projectName": "java-dio_7551efdf"
+        },
+        {
+            "type": "java",
             "name": "Population",
             "request": "launch",
             "mainClass": "Population",
