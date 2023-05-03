@@ -6,6 +6,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "ValidationDates",
             "request": "launch",
             "mainClass": "ValidationDates",
@@ -45,6 +46,33 @@
             "request": "launch",
             "mainClass": "EvenOrOdd",
             "projectName": "java-dio_fef3f5fa"
+=======
+            "name": "HigherNumber",
+            "request": "launch",
+            "mainClass": "HigherNumber",
+            "projectName": "java-dio_7551efdf"
+        },
+        {
+            "type": "java",
+            "name": "ImpressOrderNumber",
+            "request": "launch",
+            "mainClass": "ImpressOrderNumber",
+            "projectName": "java-dio_7551efdf"
+        },
+        {
+            "type": "java",
+            "name": "PopulationActionUser",
+            "request": "launch",
+            "mainClass": "PopulationActionUser",
+            "projectName": "java-dio_7551efdf"
+        },
+        {
+            "type": "java",
+            "name": "Population",
+            "request": "launch",
+            "mainClass": "Population",
+            "projectName": "java-dio_7551efdf"
+>>>>>>> 530792eefe291e869adf421daeace77851aa5351
         },
         {
             "type": "java",
