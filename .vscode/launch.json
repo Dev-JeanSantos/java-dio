@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ImpressOrderNumber",
+            "request": "launch",
+            "mainClass": "ImpressOrderNumber",
+            "projectName": "java-dio_7551efdf"
+        },
+        {
+            "type": "java",
             "name": "PopulationActionUser",
             "request": "launch",
             "mainClass": "PopulationActionUser",
