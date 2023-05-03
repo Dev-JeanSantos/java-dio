@@ -16,7 +16,5 @@ public class Nota {
 
         System.out.println("Finishing! This is note: "+ note);
 
-
-
     }
 }

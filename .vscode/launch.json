@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ValidationDates",
+            "request": "launch",
+            "mainClass": "ValidationDates",
+            "projectName": "java-dio_fef3f5fa"
+        },
+        {
+            "type": "java",
+            "name": "ValidateString",
+            "request": "launch",
+            "mainClass": "ValidateString",
+            "projectName": "java-dio_fef3f5fa"
+        },
+        {
+            "type": "java",
+            "name": "Nota",
+            "request": "launch",
+            "mainClass": "Nota",
+            "projectName": "java-dio_fef3f5fa"
+        },
+        {
+            "type": "java",
+            "name": "Fatorial",
+            "request": "launch",
+            "mainClass": "Fatorial",
+            "projectName": "java-dio_fef3f5fa"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "MultiplicationTable",
+            "projectName": "java-dio_fef3f5fa"
+        },
+        {
+            "type": "java",
+            "name": "EvenOrOdd",
+            "request": "launch",
+            "mainClass": "EvenOrOdd",
+            "projectName": "java-dio_fef3f5fa"
+        },
+        {
+            "type": "java",
             "name": "EvenOrOdd",
             "request": "launch",
             "mainClass": "EvenOrOdd",

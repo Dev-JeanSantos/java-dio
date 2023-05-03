@@ -26,7 +26,7 @@ public class EvenOrOdd {
         } while (count < quantityNumber);
 
         System.out.println("Quantity numbers even = " + quantityEven);
-        System.out.println("Quantity numbers odd =  " +  quantityEven);
+        System.out.println("Quantity numbers odd =  " +  quantityOdd);
 
 
     }
