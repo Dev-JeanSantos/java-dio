@@ -9,35 +9,35 @@ public class QuadrilateralCalculation {
         int h = rdm.nextInt(20);
         int B = rdm.nextInt(10,20);
         int l = rdm.nextInt(20);
-        
-        calculator(l);
+
+
         calculator(b, h);
         calculator(B, b, h);
+        System.out.println("A area do quadrado de lado: "+ l + " é: "+calculator(l));
+        System.out.println("A area do retangulo de base: "+ b + " é altura: " + h + " é de: "+calculator(b, h));
+        System.out.println("A area do retangulo de base maior: "+ B + " base menor: "+ b + " e altura: " +h+ " é de: "+calculator(b, B, h));
     }
     
-    public static void calculator(int lado){
+    public static int calculator(int lado){
         
         int a;
         a = lado * lado;
-
-        System.out.println("A area do quadrado de lado: "+ lado + " é: "+a);
+        return a;
     }
 
     
-    public static void calculator(int base, int altura){
+    public static int calculator(int base, int altura){
         
         int a;
         a = base * altura;
+        return a;
 
-        System.out.println("A area do retangulo de base: "+ base + " é altura: " +altura+ " é de: "+a);
     }
 
-    public static void calculator(int baseMenor, int baseMaior, int altura){
-        
+    public static int calculator(int baseMenor, int baseMaior, int altura){
+    
         int a;
-
         a = ((baseMaior + baseMenor) * altura)/ 2;
-
-        System.out.println("A area do retangulo de base maior: "+ baseMaior + " base menor: "+ baseMenor + " e altura: " +altura+ " é de: "+a);
+        return a;
     }
 }
