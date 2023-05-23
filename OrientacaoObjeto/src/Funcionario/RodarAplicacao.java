@@ -13,7 +13,7 @@ public class RodarAplicacao {
         Funcionario faxineiro =  new Faxineiro();
         
         //DOWNCAST
-        Vendedor vendedor_= (Vendedor) new Funcionario();
+        // Vendedor vendedor_= (Vendedor) new Funcionario();
 
 
     }
